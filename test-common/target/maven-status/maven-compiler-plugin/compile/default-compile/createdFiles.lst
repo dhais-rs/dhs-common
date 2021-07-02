@@ -1,0 +1,5 @@
+com\dhais\model\User.class
+com\dhais\service\impl\IUserServiceIml.class
+com\dhais\service\IUserService.class
+com\dhais\TestCommonApplication.class
+com\dhais\mapper\IUserMapper.class

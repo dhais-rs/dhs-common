@@ -1,0 +1,7 @@
+com\dhais\annotation\DataSourceTarget.class
+com\dhais\config\MybatisConfig.class
+com\dhais\holder\DataSourceContextHolder.class
+com\dhais\aspect\DataSourceAspect.class
+com\dhais\interceptor\PerformanceInterceptor.class
+com\dhais\DynamicDataSource.class
+com\dhais\config\DataSourceConfig.class
